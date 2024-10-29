@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { RiMenuUnfold2Fill } from "react-icons/ri";
+import { RiMenuFoldFill } from "react-icons/ri";
 import {
     Sheet,
     SheetContent,
@@ -33,9 +33,9 @@ export default function Header() {
             <Sheet>
                 <div className="flex justify-around py-6">
                 <div>
-                    <h2 className="text-left pr-28 text-3xl font-bold md:hidden lg:hidden xl:hidden">Urban<span className="text-yellow-500">Rise</span></h2>
+                    <h2 className="text-left pr-14 text-3xl font-bold md:hidden lg:hidden xl:hidden">Urban<span className="text-yellow-500">Rise</span></h2>
                 </div>
-                <SheetTrigger className=" text-3xl pl-28 md:hidden lg:hidden xl:hidden"><RiMenuUnfold2Fill /></SheetTrigger>
+                <SheetTrigger className=" text-3xl pl-14 md:hidden lg:hidden xl:hidden"><RiMenuFoldFill /></SheetTrigger>
                 <SheetContent>
                 <div>
                     <h2 className="text-left py-8 pr-16 text-3xl font-bold">Urban<span className="text-yellow-500">Rise</span></h2>

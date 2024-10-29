@@ -6,9 +6,9 @@ import Showcase from "./component/showcase";
 export default function Hero (){
   return(
     <main className="bg-stone-800 text-white max-w-screen-2xl mx-auto">
-      <div className="flex flex-col items-center md:flex-row pt-20 pb-20 md:justify-around">
+      <div className="flex flex-col items-center text-center sm:text-start md:flex-row py-20 px-6 md:justify-around">
         <Image src={men} alt="menImage" width={500} height={400} className="md:hidden"/>
-        <div>
+        <div className="px-6">
           <h2 className="text-6xl font-bold pt-3 pb-12">Crafting <br />Architectural <br />Wonders</h2>
           <p className="text-gray-300 pb-8 font-semibold">Your Ideas & Dreams Are Treansformed by us Into Long-<br />Lesting, Engineered Buildings.</p>
           <div>
