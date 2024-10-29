@@ -7,7 +7,7 @@ export default function Contact() {
     <section className="max-w-screen-2xl mx-auto">
     <div className="flex flex-col lg:flex-row md:pr-40 lg:pr-20 pb-32 bg-stone-800">
       <div className="flex-1 flex items-center justify-center lg:pl-52 lg:pt-24 md:pl-52 md:pt-24 pt-24 pl-6 bg-stone-800">
-        <form className="bg-white shadow-md rounded-lg p-8 w-full max-w-lg">
+        <form className="bg-white shadow-md rounded-lg p-8 mr-4 w-full max-w-lg">
           <h2 className="text-2xl font-bold mb-6">Contact Us</h2>
           <div className="mb-4">
             <label className="block text-sm font-medium mb-2" htmlFor="name">Name</label>

@@ -20,12 +20,12 @@ export default function Member(){
                     </div>
                     <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/"><button className="border-2 border-yellow-300 flex m-10 md:ml-28 ml-14 md:mr-32 mr-32 font-semibold text-yellow-600 hover:bg-yellow-200 p-1 pr-4 pl-4 gap-3 rounded">See All <IoIosArrowForward className="mt-1 text-yellow-400"/></button></a>
                 </div>
-                <nav className="md:ml-20 ml-1 pt-2 text-center md:text-start">
+                <nav className="md:ml-20 ml-1 pt-2 text-center md:text-start bg-white">
                     <button className="text-gray-500 hover:text-black focus:border-2 focus:border-black focus:text-black focus:rounded-xl font-semibold p-1 pl-2 pr-2">Civil Engineers</button>
                     <button className="text-gray-500 hover:text-black focus:border-2 focus:border-black focus:text-black focus:rounded-xl font-semibold p-1 pl-2 pr-2 ml-3">Architect</button>
-                    <button className="text-gray-500 hover:text-black focus:border-2 focus:border-black focus:text-black focus:rounded-xl font-semibold p-1 pl-2 pr-2 ml-3">Sturactural Engineer</button>                            
-                    <button className="text-gray-500 hover:text-black focus:border-2 focus:border-black focus:text-black focus:rounded-xl font-semibold p-1 pl-2 pr-2 ml-3">Interior Designer</button>
-                    <button className="text-gray-500 hover:text-black focus:border-2 focus:border-black focus:text-black focus:rounded-xl font-semibold p-1 pl-2 pr-2 ml-3">Project Manager</button>
+                    <button className="text-gray-500 hover:text-black focus:border-2 focus:border-black focus:text-black focus:rounded-xl font-semibold p-1 pl-2 pr-2 ml-4">Sturactural Engineer</button>                            
+                    <button className="text-gray-500 hover:text-black focus:border-2 focus:border-black focus:text-black focus:rounded-xl font-semibold p-1 pl-2 pr-2 ml-4">Interior Designer</button>
+                    <button className="text-gray-500 hover:text-black focus:border-2 focus:border-black focus:text-black focus:rounded-xl font-semibold p-1 pl-2 pr-2 ml-6 ">Project Manager</button>
                 </nav>
                 <div className="mt-20">
                     <div className="flex flex-col items-center text-center md:text-start md:flex-row md:justify-around">
@@ -66,7 +66,7 @@ export default function Member(){
                             <span className="text-gray-500 font-semibold">Project Engineer</span>
                             </span>
                         </div>
-                        <div className="border-2 flex flex-col items-center md:text-start md:flex-row md:justify-between  border-gray-100 rounded-lg hover:border-gray-500 p-4 pr-8 mr-5">
+                        <div className="border-2 flex flex-col items-center md:text-start md:flex-row md:justify-between  border-gray-100 rounded-lg hover:border-gray-500 p-4 pr-8 mr-2">
                             <Image src={sixmem} alt="team member" width={70} className="rounded-md"/>
                             <span className="ml-4">
                             <span className="text-2xl font-bold pb-2 ">Sophia Robinson <br /></span>
