@@ -5,7 +5,7 @@ export default function Footer (){
     return(
         <footer className="bg-white max-w-screen-2xl mx-auto">
             <hr />
-            <div className="pt-12 pb-6 flex flex-col items-center md:flex-row justify-around">
+            <div className="pt-12 pb-6 pl-14 pl-8 flex flex-col items-center md:flex-row justify-around">
                 <div className="text-center md:text-start">
                     <h2 className="text-3xl font-bold text-black">Urban<span className="text-yellow-500">Rise</span></h2>
                     <p className="text-gray-600 font-semibold pt-2">We Are More than Just Builders; We Are Creators <br /> of Architectural Marveis. With a Passion For <br />Excellence And An Unwavering Commitment To <br />Quality</p>
