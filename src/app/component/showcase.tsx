@@ -9,7 +9,7 @@ export default function Showcase () {
                 <div className="pt-32 md:p-20 text-center sm:text-start px-8">
                     <div className="border-4 border-yellow-600 mr-96 mb-6"></div>
                     <h2 className="text-4xl font-bold pb-2">Let s Build Together</h2>
-                    <p className="font-semibold text-gray-300">Contact Us If You Have Anything In Mind, We Will Help You Build.</p>
+                    <p className="font-semibold text-gray-300 px-9">Contact Us If You Have Anything In Mind, We Will Help You Build.</p>
                     <a href="/contact"><button className="border-2 border-yellow-600 p-2 pr-12 pl-12 text-black font-semibold bg-yellow-500 hover:bg-stone-800 hover:text-white ml-8 md:ml-8 mt-10">Contect Us</button></a>
                     <a href="https://www.linkedin.com/in/moiz-qureshi-0884592b9/" target="blank"><button className="border-2 border-yellow-600 p-2 pr-8 pl-7 ml-7 font-semibold bg-stone-800 hover:bg-yellow-500 hover:text-black mt-10">Free Consultation</button></a>
                 </div>
