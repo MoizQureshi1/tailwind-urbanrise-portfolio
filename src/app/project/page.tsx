@@ -17,9 +17,9 @@ export default function Project (){
                         <h2 className="text-4xl font-bold pb-2 text-white">Recent Projects</h2>
                         <p className="font-semibold text-gray-400">Recent Project Showcasing Our Craftsmanship And Innovation In Constraction</p>
                     </div>
-                    <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-gray-400 flex m-10 md:ml-28 ml-14 md:mr-32 mr-32 text-gray-400 hover:bg-yellow-200 p-1 pr-4 pl-4 gap-3 font-semibold rounded">See All <IoIosArrowForward className="mt-1 text-gray-600"/></button></a>
+                    <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-gray-400 flex m-10 md:ml-28 ml-14 md:mr-32  text-gray-400 hover:bg-yellow-200 p-1 pr-4 pl-4 gap-3 font-semibold rounded">See All <IoIosArrowForward className="mt-1 text-gray-600"/></button></a>
                 </div>
-                <div className="flex flex-col items-center lg:flex-row lg:justify-around mt-10">
+                <div className="flex flex-col items-center text-center md:text-start lg:flex-row lg:justify-around mt-10 mr-4">
                     <div className="flex flex-col items-center md:text-start md:flex-row md:justify-between bg-white p-5 ml-6 lg:mt-10">
                         <Image src={fshow} alt="showcasing" width={200} height={100}/>
                         <div className="ml-4">
@@ -29,7 +29,7 @@ export default function Project (){
                                 <span>Interrior</span>
                                 <span className="pl-5 pr-5">*</span>
                                 <span>Oct 2024</span>
-                                <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-yellow-300 text-yellow-500 hover:bg-yellow-200 ml-14 p-1 pl-6 pr-6 rounded text-2xl"><MdOutlineArrowForward /></button></a>
+                                <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-yellow-300 text-yellow-500 hover:bg-yellow-200 ml-14 mr-20 md:mr-0 mt-4 md:mt-0 p-1 pl-6 pr-6 rounded text-2xl"><MdOutlineArrowForward /></button></a>
                             </div>
                         </div>
                     </div>
@@ -42,12 +42,12 @@ export default function Project (){
                                 <span>Building</span>
                                 <span className="pl-5 pr-5">*</span>
                                 <span>Oct 2024</span>
-                                <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-yellow-300 text-yellow-500 hover:bg-yellow-200 ml-14 p-1 pl-6 pr-6 rounded text-2xl"><MdOutlineArrowForward /></button></a>
+                                <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-yellow-300 text-yellow-500 hover:bg-yellow-200 ml-14 mr-20 md:mr-0 mt-4 md:mt-0 p-1 pl-6 pr-6 rounded text-2xl"><MdOutlineArrowForward /></button></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div className="flex flex-col items-center lg:flex-row lg:justify-around mt-10">
+                <div className="flex flex-col items-center text-center md:text-start lg:flex-row lg:justify-around mt-10 mr-4">
                     <div className="flex flex-col items-center md:text-start md:flex-row md:justify-between bg-white p-5 ml-6 lg:mt-10">
                         <Image src={tshow} alt="showcasing" width={200} height={100}/>
                         <div className="ml-4">
@@ -57,7 +57,7 @@ export default function Project (){
                                 <span>Complex</span>
                                 <span className="pl-5 pr-5">*</span>
                                 <span>Oct 2024</span>
-                                <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-yellow-300 text-yellow-500 hover:bg-yellow-200 ml-14 p-1 pl-6 pr-6 rounded text-2xl"><MdOutlineArrowForward /></button></a>
+                                <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-yellow-300 text-yellow-500 hover:bg-yellow-200 ml-14 mr-20 md:mr-0 mt-4 md:mt-0 p-1 pl-6 pr-6 rounded text-2xl"><MdOutlineArrowForward /></button></a>
                             </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ export default function Project (){
                                 <span>Complex</span>
                                 <span className="pl-5 pr-5">*</span>
                                 <span>Oct 2024</span>
-                                <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-yellow-300 text-yellow-500 hover:bg-yellow-200 ml-14 p-1 pl-6 pr-6 rounded text-2xl"><MdOutlineArrowForward /></button></a>
+                                <a href="https://freeuiresources.com/free-construction-landing-page-template-figma/" target="blank"><button className="border-2 border-yellow-300 text-yellow-500 hover:bg-yellow-200 ml-14 mr-20 md:mr-0 mt-4 md:mt-0 p-1 pl-6 pr-6 rounded text-2xl"><MdOutlineArrowForward /></button></a>
                             </div>
                         </div>
                     </div>

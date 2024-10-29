@@ -10,7 +10,7 @@ export default function Footer (){
                     <h2 className="text-3xl font-bold text-black">Urban<span className="text-yellow-500">Rise</span></h2>
                     <p className="text-gray-600 font-semibold pt-2">We Are More than Just Builders; We Are Creators <br /> of Architectural Marveis. With a Passion For <br />Excellence And An Unwavering Commitment To <br />Quality</p>
                 </div>
-                <div className="flex gap-10 mt-6 mr-7 text-gray-500 font-semibold">
+                <div className="flex gap-10 mt-6 mr-7 text-gray-500 font-semibold text-center md:text-start">
                     <div className="pr-8">
                         <h2 className="text-xl font-bold text-gray-800 pb-4">Company</h2>
                         <a href="/about" className="hover:underline">About Us</a><br />
