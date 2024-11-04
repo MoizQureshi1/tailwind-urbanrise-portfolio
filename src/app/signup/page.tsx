@@ -1,6 +1,6 @@
 import Footer from "../component/footer";
 
-export default function Home() {
+export default function Signup() {
   return (
     <main>
     <div className="flex items-center justify-center min-h-screen bg-gray-100 max-w-screen-2xl mx-auto">
