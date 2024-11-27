@@ -12,7 +12,7 @@ export default function Hero (){
           <h2 className="text-6xl font-bold pb-12">Crafting <br />Architectural <br />Wonders</h2>
           <p className="text-gray-300 pb-8 font-semibold">Your Ideas & Dreams Are Treansformed by us Into Long-<br />Lesting, Engineered Buildings.</p>
           <div>
-            <a href="/contact"><button className="border-2 border-yellow-600 p-2 pr-12 pl-12 ml-7 lg:ml-0 mb-5 text-black font-semibold bg-yellow-500 hover:bg-stone-800 hover:text-white">Contect Us</button></a>
+            <a href="/contact"><button className="border-2 border-yellow-600 p-2 pr-12 pl-12 ml-6 md:ml-0 mb-5 text-black font-semibold bg-yellow-500 hover:bg-stone-800 hover:text-white">Contect Us</button></a>
             <a href="https://www.linkedin.com/in/moiz-qureshi-0884592b9/" target="blank"><button className="border-2 border-yellow-600 p-2 pr-8 pl-7 ml-6 font-semibold bg-stone-800 hover:bg-yellow-500 hover:text-black">Free Consultation</button></a>
             <p className="pt-7 text-gray-300"><span className="text-yellow-600">*</span> All Our Projects Are Curated by Experts.</p>
           </div>
